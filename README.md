@@ -29,11 +29,21 @@
   - Identifying and removing duplicate rows using `.duplicated()` and `.drop_duplicates()`.
   - Generating descriptive statistics with `.describe()`.
   - Correlation analysis using `.corr()`.
+![image](https://github.com/MKT17/New-Heart-Disease/assets/152396111/1c449f00-c9cc-4c07-a683-deca50b70bc1)
+
   - Distribution of the target variable and categorical features using `sns.countplot`.
   - Age distribution with `sns.distplot`.
+![image](https://github.com/MKT17/New-Heart-Disease/assets/152396111/ec2afa24-6ef4-48a2-a230-7fabda24404a)
+
   - Histograms for continuous features and FacetGrid for distributions based on sex.
+![image](https://github.com/MKT17/New-Heart-Disease/assets/152396111/80e6929b-2e5e-4265-a696-854bec37b545)
+
   - Histograms for blood pressure (`trestbps`) and cholesterol (`chol`).
+![image](https://github.com/MKT17/New-Heart-Disease/assets/152396111/7178a690-3bcd-4ff2-a627-e93ef219deaf)
+
   - Histograms for continuous variables.
+  ![image](https://github.com/MKT17/New-Heart-Disease/assets/152396111/cec282f4-3dd6-42f0-86ce-29bf1072df7d)
+
 
 - **Machine Learning Models:**
   - **Data Preprocessing:**
@@ -48,6 +58,8 @@
     - Gradient Boosting Classifier
   - **Model Performance:**
     - Evaluation of each model using `accuracy_score`.
+    ![Capture 2](https://github.com/MKT17/New-Heart-Disease/assets/152396111/9744e557-516a-43dc-97b2-bccb77aa4b42)
+
 
 ### 3. The Findings
 
@@ -56,6 +68,9 @@
   - K-Nearest Neighbors and Random Forest both achieved an accuracy of 86.89%.
   - Gradient Boosting Classifier achieved an accuracy of 85.25%.
   - Decision Tree Classifier had the lowest accuracy at 81.97%.
+
+  ![image](https://github.com/MKT17/New-Heart-Disease/assets/152396111/38d1e3a6-49aa-47de-93bd-6487c2ac5c05)
+
 
 ### 4. The Summary
 
